@@ -1,5 +1,5 @@
-Summary:	Utilites for gEDA project
-Summary(pl):	Narzêdzia dla projektu gEDA
+Summary:	Utilites for gEDA project - symbol checker
+Summary(pl):	Narzêdzia dla projektu gEDA - weryfikator symboli
 Name:		geda-gsymcheck
 Version:	20040111
 Release:	0.1
@@ -11,6 +11,7 @@ URL:		http://www.geda.seul.org/
 BuildRequires:	libgeda-devel >= %{version}
 BuildRequires:	pkgconfig
 Requires:	libgeda >= %{version}
+Obsoletes:	gsymcheck
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
