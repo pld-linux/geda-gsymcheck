@@ -1,12 +1,12 @@
 Summary:	Utilites for gEDA project - symbol checker
 Summary(pl):	Narzêdzia dla projektu gEDA - weryfikator symboli
 Name:		geda-gsymcheck
-Version:	20040111
-Release:	0.1
+Version:	20050313
+Release:	1
 License:	GPL
 Group:		Applications
 Source0:	ftp://ftp.geda.seul.org/pub/geda/devel/%{version}/%{name}-%{version}.tar.gz
-# Source0-md5:	869fee36c0edcd9beb904e208d9a782a
+# Source0-md5:	12d94d1a75867fbde883027099e1d6a2
 URL:		http://www.geda.seul.org/
 BuildRequires:	libgeda-devel >= %{version}
 BuildRequires:	pkgconfig
