@@ -1,5 +1,5 @@
 Summary:	Utilites for gEDA project - symbol checker
-Summary(pl.UTF-8):   Narzędzia dla projektu gEDA - weryfikator symboli
+Summary(pl.UTF-8):	Narzędzia dla projektu gEDA - weryfikator symboli
 Name:		geda-gsymcheck
 Version:	20061020
 Release:	0.1
